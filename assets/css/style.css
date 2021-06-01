@@ -57,6 +57,11 @@ textarea {
   color: white;
 }
 
+.success{
+  width: 50%;
+  margin: 2% auto
+}
+
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
